@@ -1,16 +1,19 @@
-## Hi there 👋
+# User: binaryBandit1337
 
-<!--
-**binaryBandit1337/binaryBandit1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _"Not a virus. Probably."_
 
-Here are some ideas to get you started:
+I'm a hobbyist programmer who enjoys languages like C/C++ and Python.  
+I write code for fun, for learning, and sometimes just to see what happens.  
+Always curious, always open to new ideas — and always up for a good laugh along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Open to collaboration
+
+If you're working on something weird, useful, or unfinished — let's build it together.
+
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFAA&vCenter=true&width=410&lines=std::cout+%3C%3C+%22Hello%2C+world!%22;)
+
+> _"If it compiles, it can't be that bad"_
